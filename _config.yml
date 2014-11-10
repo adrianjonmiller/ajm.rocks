@@ -1,0 +1,12 @@
+# Site settings
+title: Adrian J. Miller
+email: adrianjonmiller@gmail.com
+description: > 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://ajm.rocks" # the base hostname & protocol for your site
+twitter: adrianjonmiller
+github:  adrianjonmiller
+linkedin:  adrianjonmiller
+
+# Build settings
+markdown: kramdown
